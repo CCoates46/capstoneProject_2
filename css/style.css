@@ -133,7 +133,7 @@ ul.nav > li.nav-item > a:focus  {
   font-size: 18px;
 }
 
-.btn, .btn-outline-secondary {
+.btn-outline-secondary {
   background-color: rgb(7, 163, 7);
 }
 
